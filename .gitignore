@@ -1,0 +1,11 @@
+__pycache__/
+dist/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.env
+.venv
+env/
+venv/
+output/
+input/
