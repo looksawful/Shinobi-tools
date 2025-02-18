@@ -3,5 +3,11 @@
   "default_output_dir": "output",
   "default_size": "1080x1080",
   "default_aspect": "1:1",
-  "default_crop": "center"
+  "default_crop": "center",
+  "default_format": "webp",
+  "default_quality": 100,
+  "default_dpi": null,
+  "default_keep_metadata": false,
+  "default_timestamp": "datetime",
+  "default_group_by_format": false
 }
